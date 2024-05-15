@@ -960,7 +960,23 @@ Practical Examples of Text Processing
 				step7: git push
 
 
+======================================================================================================
 
+				step1: created a new directories and added files or code into 24NAG0878_Wipro_Datacom-Training folder
+
+				step2: git checkout -b master
+
+				step3: git add .
+		
+				step4: git commit -m "my second commit"
+	
+				step5: git push --set-upstream origin master
+
+				step6: git switch main
+
+				step7: git merge master
+
+				step8: compare and pull request in repository. 
 
 
 
