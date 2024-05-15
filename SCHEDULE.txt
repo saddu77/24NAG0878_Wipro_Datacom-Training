@@ -941,6 +941,23 @@ Practical Examples of Text Processing
 					right join : matching records of Table1 and all records of Table2
 
 
+								Git:
+				step1: create emplty folder: my-repo
+
+					PULL REQUEST
+				step2: navigate to my repo and clone the repository:
+							git clone https://github.com/saddu77/24NAG0878_Wipro_Datacom-Training.git
+
+				step3: navigae to 24NAG0878_Wipro_Datacom-Training
+
+				step4: keep the files to push into the repo
+
+				step5: git add .
+
+				step6: git commit -m "my first commit"
+
+					PUSH REQUEST
+				step7: git push
 
 
 
